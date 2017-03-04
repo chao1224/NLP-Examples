@@ -21,3 +21,5 @@ for all documents $m \in [1,M]$:
         sample topic index $z_{m,n} \sim Mult(\theta_m)$
         sample term for word $w_{m,n} \sim Multi(\phi_{m,n})$
 ```
+
+公式推导的博客链接: [CSDN博客](http://blog.csdn.net/miss_snow_m/article/details/60459166)
